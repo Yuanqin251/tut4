@@ -7,6 +7,6 @@ public class Cacl {
 	}
 	
 	public int subtrac(int a, int b) {
-		return a+b;
+		return a-b;
 	}
 }
